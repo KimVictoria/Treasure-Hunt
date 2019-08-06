@@ -1,0 +1,129 @@
+body {
+    background-image: url('http://rs683.pbsrc.com/albums/vv197/JackCalvert/sparklestars1.gif~c200');
+}
+
+button {
+    width:100px;
+    height:50px;
+}
+span {
+    color: red;
+}
+.prime {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    border: solid  black 5px;
+    display: flex;
+    justify-content: center;
+    width:100%;
+    height:50px;
+    align-items: center;
+}
+
+.blue {
+    background-color: lightblue;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.green1 {
+    background-color: lightgreen;
+}
+
+.red {
+    background-color: red;
+}
+
+.red1 {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.pokemon {
+    display: flex;
+}
+
+.pachirisu {
+    border: solid black 1px;
+}
+
+.multiplechoice {
+    background-color: lightyellow;
+    border: solid black 1px;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.boxes {
+    width: 220px;
+    height:220px;
+    border: solid 2px grey;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.moreboxes {
+    display: flex;
+    justify-content: space-around;
+}
+
+.one {
+    color: blue;
+    background-color: blue;
+}
+
+.two {
+    color: lightblue;
+    background-color: lightblue;
+}
+
+.three {
+    color: teal;
+    background-color: teal;
+}
+
+.four {
+    color: aqua;
+    background-color: aqua;
+}
+
+.whichone {
+    display: flex;
+    justify-content: space-around;
+}
+
+.door {
+    display: flex;
+    justify-content: space-around;
+}
+
+.choice {
+    border: solid black 1px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+.lightswitch {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.finishmood {
+    background-color: white;
+}
